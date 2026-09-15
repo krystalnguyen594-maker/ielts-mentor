@@ -21,6 +21,8 @@
   - Đã làm đúng 4/4 câu Ngữ pháp nâng cao trong [Grammar_Errors.md](file:///Users/krystalnguyen/Documents/IELTS/06_ERROR_LOG/Grammar_Errors.md).
 - [x] **Task 5: Nâng cấp câu trả lời Speaking Part 3 lên Band 7.5+**
   - Đã chuyển đổi câu trả lời về công nghệ sang phiên bản học thuật Band 8.0 cho việc luyện Shadowing.
+- [ ] **Task 6: Weekly Checkpoint (Kiểm tra Từ vựng & Cấu trúc cuối tuần)**
+  - Đề kiểm tra 10-15 phút tại [Sprint1_Vocab_Sentence_Checkpoint.md](file:///Users/krystalnguyen/Documents/IELTS/02_KNOWLEDGE_BASE/Weekly_Checkpoints/Sprint1_Vocab_Sentence_Checkpoint.md) (Làm vào cuối tuần trước khi chốt sổ Sprint).
 
 ---
 
