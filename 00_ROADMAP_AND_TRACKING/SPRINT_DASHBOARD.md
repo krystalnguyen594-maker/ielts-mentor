@@ -11,16 +11,16 @@
 
 ### 📋 Checklist Nhiệm vụ Sprint 1:
 - [x] **Task 1: Nghiên cứu kỹ Báo cáo đánh giá đầu vào**
-  - Mở file [DIAGNOSTIC_REPORT.md](file:///Users/krystalnguyen/Documents/IELTS/01_DIAGNOSTIC_SPRINT/DIAGNOSTIC_REPORT.md) để nắm rõ điểm mạnh và lỗ hổng kiến thức.
+  - Đã bóc tách điểm mạnh và lỗ hổng kiến thức trong [DIAGNOSTIC_REPORT.md](file:///Users/krystalnguyen/Documents/IELTS/01_DIAGNOSTIC_SPRINT/DIAGNOSTIC_REPORT.md).
 - [x] **Task 2: Đọc hiểu Cẩm nang Viết đoạn văn PEEL**
-  - Mở file [PEEL_FRAMEWORK_GUIDE.md](file:///Users/krystalnguyen/Documents/IELTS/03_WRITING_LAB/Frameworks/PEEL_FRAMEWORK_GUIDE.md).
-- [x] **Task 3: Bài tập "Phá băng" Viết (Action Drill: Writing Triage)**
-  - ĐÃ HOÀN THÀNH XUẤT SẮC: Đoạn văn PEEL 98 từ đạt Band 8.5 tại [Sprint1_Writing_Drill.md](file:///Users/krystalnguyen/Documents/IELTS/03_WRITING_LAB/Submissions/Sprint1_Writing_Drill.md).
+  - Nắm vững công thức Point - Explanation - Example - Link trong [PEEL_FRAMEWORK_GUIDE.md](file:///Users/krystalnguyen/Documents/IELTS/03_WRITING_LAB/Frameworks/PEEL_FRAMEWORK_GUIDE.md).
+- [x] **Task 3: Bài luận Task 2 Hoàn chỉnh đầu tay (Full Essay Breakthrough)**
+  - 🌟 **ĐÃ HOÀN THÀNH XUẤT SẮC**: Bài luận 4 đoạn hoàn chỉnh (272 từ) đạt chuẩn **Band 8.5** tại [Full_Essay_Task2_Online_Education.md](file:///Users/krystalnguyen/Documents/IELTS/03_WRITING_LAB/Submissions/Full_Essay_Task2_Online_Education.md).
 - [x] **Task 4: Khắc phục lỗi Collocation & Ngữ pháp từ bài test**
   - Đã làm đúng 6/6 câu Collocation trong [Collocation_Misuse.md](file:///Users/krystalnguyen/Documents/IELTS/06_ERROR_LOG/Collocation_Misuse.md).
-  - Đã làm đúng 4/4 câu Ngữ pháp nâng cao (Mixed Conditional, Participle, Used to, Subjunctive) trong [Grammar_Errors.md](file:///Users/krystalnguyen/Documents/IELTS/06_ERROR_LOG/Grammar_Errors.md).
-- [ ] **Task 5: Nâng cấp câu trả lời Speaking Part 3 lên Band 7.5+**
-  - Thử đọc/nói lại câu trả lời Speaking Part 3 bằng phiên bản đã được Mentor nâng cấp từ vựng và thành ngữ chuẩn.
+  - Đã làm đúng 4/4 câu Ngữ pháp nâng cao trong [Grammar_Errors.md](file:///Users/krystalnguyen/Documents/IELTS/06_ERROR_LOG/Grammar_Errors.md).
+- [x] **Task 5: Nâng cấp câu trả lời Speaking Part 3 lên Band 7.5+**
+  - Đã chuyển đổi câu trả lời về công nghệ sang phiên bản học thuật Band 8.0 cho việc luyện Shadowing.
 
 ---
 
