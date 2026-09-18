@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "IELTS-Mentor-8.0",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.wordWrap": "on",
+    "markdown.preview.breaks": true,
+    "markdown.preview.fontSize": 15,
+    "files.autoSave": "afterDelay",
+    "workbench.editor.enablePreview": false
+  }
+}
